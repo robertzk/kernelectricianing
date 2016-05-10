@@ -1,3 +1,5 @@
+// First encounter: https://github.com/git/git/blob/e83c5163316f89bfbde7d9ab23ca2e25604af290/init-db.c#L5
+
 #include <stdio.h>
 #include <stdlib.h>
 
